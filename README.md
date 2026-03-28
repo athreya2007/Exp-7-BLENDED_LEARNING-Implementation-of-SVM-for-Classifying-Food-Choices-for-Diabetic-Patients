@@ -1,6 +1,5 @@
 ## BLENDED LEARNING
 ## Implementation of Support Vector Machine for Classifying Food Choices for Diabetic Patients
-### DATE:08-05-2025
 ## AIM:
 To implement a Support Vector Machine (SVM) model to classify food items and optimize hyperparameters for better accuracy.
 
