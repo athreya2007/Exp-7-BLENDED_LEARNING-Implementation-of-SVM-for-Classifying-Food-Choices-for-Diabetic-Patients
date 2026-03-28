@@ -29,7 +29,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 8.  **Result:** Conclude that the SVM model was successfully implemented and optimized for food classification.
 
 ## Program:
-
+```
 # Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split, GridSearchCV
