@@ -29,11 +29,6 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 8.  **Result:** Conclude that the SVM model was successfully implemented and optimized for food classification.
 
 ## Program:
-```
-
-Program to implement SVM for food classification for diabetic patients.
-Developed by: AJITH.A
-RegisterNumber: 212224230012
 
 # Import necessary libraries
 import pandas as pd
@@ -108,16 +103,10 @@ plt.show()
 ```
 
 ## Output:
-### PREVIEW OF THE DATASET:
 ![Screenshot 2025-05-14 205634](https://github.com/user-attachments/assets/cf7cceed-4200-4247-90be-1db3ae072d90)
-
-### EXTRACTION OF BEST MODEL:
 
 ![Screenshot 2025-05-14 205625](https://github.com/user-attachments/assets/b5a83984-6455-466f-afee-499a609490ad)
 
-### EVALUATION OF THE MODEL:
-### AND
-### CONFUSION MATRIX:
 ![Screenshot 2025-05-14 205620](https://github.com/user-attachments/assets/f398fce0-c8b5-4472-a752-2847b30b293b)
 
 
